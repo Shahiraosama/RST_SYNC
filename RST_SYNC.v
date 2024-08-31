@@ -21,7 +21,7 @@ end
 else
 begin
 
-FF = { FF[STAGES-2:0] , 1}; 
+FF <= { FF[STAGES-2:0] , 1}; 
 
 
 end
